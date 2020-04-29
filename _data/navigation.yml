@@ -1,0 +1,25 @@
+# main links
+main:
+  - title: "MarineWiz®"
+    url: https://MarineWiz.github.io/docs/intro/
+  - title: "Download"
+    url: https://MarineWiz.github.io/docs/download/
+  - title: "Notice"
+    url: https://MarineWiz.github.io/docs/notice/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+docs:
+  - title: "MarineWiz®"
+    children:
+      - title: "개요"
+        url: https://MarineWiz.github.io/docs/intro/
+      - title: "설치 절차"
+        url: https://MarineWiz.github.io/docs/install/
+      - title: "사용 방법"
+        url: https://MarineWiz.github.io/docs/howto/
+      - title: "Download"
+        url: https://MarineWiz.github.io/docs/download/
+      - title: "Notice"
+        url: https://MarineWiz.github.io/docs/notice/
