@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "We are the MarineWiz Development Team."
   location         : "Daejeon, Korea"
-  email            : marinewizsdk@gmail.com
+  email            : marinewiz.sdk@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
