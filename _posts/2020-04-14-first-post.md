@@ -2,7 +2,7 @@
 title:  "MarineWiz's Page 시작하기"
 excerpt: "MarineWiz 홈페이지를 GitHub Blog 서비스인 github.io 블로그를 활용해서 구축하기로 했습니다."
 
-last_modified_at: 2020-04-14T14:46:00-05:00
+last_modified_at: 2020-04-29T18:01:00-05:00
 sidebar : true
 ---
 
