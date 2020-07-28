@@ -17,10 +17,8 @@ docs:
         url: https://MarineWiz.github.io/docs/intro/
       - title: "설치 절차"
         url: https://MarineWiz.github.io/docs/install/
-      - title: "사용 방법 ver1.0"
-        url: https://MarineWiz.github.io/docs/howto_ver1/
-      - title: "사용 방법 ver2.0"
-        url: https://MarineWiz.github.io/docs/howto_ver2/
+      - title: "사용 방법"
+        url: https://MarineWiz.github.io/docs/howto/
       - title: "Download"
         url: https://MarineWiz.github.io/docs/download/
       - title: "Notice"
